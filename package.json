@@ -1,0 +1,14 @@
+{
+  "name": "hal-coffeescript-style-guide",
+  "version": "0.1.0",
+  "description": "coffeelint rules for coffeescript beverage",
+  "main": "coffeelint.json",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gulpsome/hal-coffeescript-style-guide.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gulpsome/hal-coffeescript-style-guide/issues"
+  },
+  "homepage": "https://github.com/gulpsome/hal-coffeescript-style-guide"
+}
