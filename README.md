@@ -4,6 +4,7 @@ This is a fork of [polarmobile/coffeescript-style-guide](https://github.com/pola
 
 - a slightly more generous `max_line_length`
 - double quotes are fine, i.e. `no_unnecessary_double_quotes` is set to ignore
+- ignore `colon_assignment_spacing` because `something:\n` should be ok
 
 Refer to [CoffeeLint](http://www.coffeelint.org) for these and other options.  The original #readme follows.
 

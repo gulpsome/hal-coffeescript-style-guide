@@ -1,6 +1,6 @@
 {
   "name": "hal-coffeescript-style-guide",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "coffeelint rules for coffeescript beverage",
   "main": "coffeelint.json",
   "repository": {
