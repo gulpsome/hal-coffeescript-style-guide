@@ -1,5 +1,14 @@
 # CoffeeScript Style Guide
 
+This is a fork of [polarmobile/coffeescript-style-guide](https://github.com/polarmobile/coffeescript-style-guide) because I think it's a great guide.  A reason for forking it is to pubish on npm and offer through [hal-rc](https://github.com/gulpsome/hal-rc) or [beverage](https://github.com/gulpsome/beverage) / gulp.  Another reason is to apply the following changes to it:
+
+- a slightly more generous `max_line_length`
+- double quotes are fine, i.e. `no_unnecessary_double_quotes` is set to ignore
+
+Refer to [CoffeeLint](http://www.coffeelint.org) for these and other options.  The original #readme follows.
+
+- - -
+
 This guide presents a collection of best-practices and coding conventions for the [CoffeeScript][coffeescript] programming language.
 
 This guide is intended to be community-driven, and contributions are highly encouraged.

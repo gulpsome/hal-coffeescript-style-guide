@@ -112,6 +112,7 @@
         "level": "ignore"
     },
     "no_unnecessary_double_quotes": {
+      "name": "no_unnecessary_double_quotes",
       "level": "ignore"
     }
 }
